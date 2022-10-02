@@ -1,0 +1,83 @@
+.nav-link {
+font-size: small;
+}
+
+.text-bg-dark {
+    background-color: #333333;
+    height: 70px;
+    padding: 15px 175px 15px 50px;
+
+}
+.main {
+    margin: 0px;
+}
+.Conferencia {
+    background-image: url(hawaii.jpg);
+    background-blend-mode:overlay;
+    background-color: #333333;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 750px;
+    background-position: center;
+}   
+
+.titulo {
+    margin-top: 20px;
+    text-align: center;
+    line-height: 0px;
+}
+.etiquetas .btn-warning {
+    font-weight:bold;
+    font-size: 15px;
+    padding: 1px 6px;
+}
+
+.etiquetas .btn-info {
+    color: white;
+    font-weight:bold;
+    font-size: 15px;
+    padding: 1px 6px;
+}
+
+.etiquetas .btn-secondary {
+    font-weight:bold;
+    font-size: 15px;
+    padding: 1px 6px;
+}
+
+.etiquetas .btn-danger {
+    font-weight:bold;
+    font-size: 15px;
+    padding: 1px 6px;
+}
+
+u.dotted{
+    text-decoration-style: dotted; 
+  }
+
+.lugar{
+    margin-top: 20px;
+}
+.col-6 {
+    padding: 0px;
+}
+.boxbsas {
+    background-color: #333333;
+    color:white;
+    padding: 20px;
+}
+.h6 {
+    color: #333333;
+}
+
+.formulario {
+    font-size:medium;
+    text-align: center;
+}
+.form-control-label {
+    font-size: small;
+}
+
+.pie {
+    background-color: #1B3847;
+}
